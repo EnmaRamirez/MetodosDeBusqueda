@@ -1,0 +1,14 @@
+C:\Users\enma2\OneDrive\Escritorio\MetodosDeBusqueda\MetodosDeBusqueda\MetodosDeBusqueda\bin\Debug\net8.0\MetodosDeBusqueda.exe
+C:\Users\enma2\OneDrive\Escritorio\MetodosDeBusqueda\MetodosDeBusqueda\MetodosDeBusqueda\bin\Debug\net8.0\MetodosDeBusqueda.deps.json
+C:\Users\enma2\OneDrive\Escritorio\MetodosDeBusqueda\MetodosDeBusqueda\MetodosDeBusqueda\bin\Debug\net8.0\MetodosDeBusqueda.runtimeconfig.json
+C:\Users\enma2\OneDrive\Escritorio\MetodosDeBusqueda\MetodosDeBusqueda\MetodosDeBusqueda\bin\Debug\net8.0\MetodosDeBusqueda.dll
+C:\Users\enma2\OneDrive\Escritorio\MetodosDeBusqueda\MetodosDeBusqueda\MetodosDeBusqueda\bin\Debug\net8.0\MetodosDeBusqueda.pdb
+C:\Users\enma2\OneDrive\Escritorio\MetodosDeBusqueda\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net8.0\MetodosDeBusqueda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enma2\OneDrive\Escritorio\MetodosDeBusqueda\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net8.0\MetodosDeBusqueda.AssemblyInfoInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\MetodosDeBusqueda\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net8.0\MetodosDeBusqueda.AssemblyInfo.cs
+C:\Users\enma2\OneDrive\Escritorio\MetodosDeBusqueda\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net8.0\MetodosDeBusqueda.csproj.CoreCompileInputs.cache
+C:\Users\enma2\OneDrive\Escritorio\MetodosDeBusqueda\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net8.0\MetodosDeBusqueda.dll
+C:\Users\enma2\OneDrive\Escritorio\MetodosDeBusqueda\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net8.0\refint\MetodosDeBusqueda.dll
+C:\Users\enma2\OneDrive\Escritorio\MetodosDeBusqueda\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net8.0\MetodosDeBusqueda.pdb
+C:\Users\enma2\OneDrive\Escritorio\MetodosDeBusqueda\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net8.0\MetodosDeBusqueda.genruntimeconfig.cache
+C:\Users\enma2\OneDrive\Escritorio\MetodosDeBusqueda\MetodosDeBusqueda\MetodosDeBusqueda\obj\Debug\net8.0\ref\MetodosDeBusqueda.dll
